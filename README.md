@@ -6,6 +6,7 @@ I coverd in this basic project is:
 3. Fit the data to the model (after building our model we fit the dummy data to the model for training)
 4. Make prediction and evaluate our model performance (testing model with test data)
 5. Save the model (save the model so that we can use it in future)
+
 Here i work with some basic pytorch module. if you want to learn pytorch please follow step by step this project.
 Thank you.
 
